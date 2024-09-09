@@ -31,8 +31,9 @@
 
 <div align="right"><img src="https://img.shields.io/badge/_contact-ME-FF0266?style=for-the-badge&labelColor=29002e"></div>
 <div align="left">
-<a href="https://t.me/r_tsch" target="_blank"> <img src="https://github.com/user-attachments/assets/fafbc6dd-427e-40bd-9888-b623729018ad"></> </a>
-<a href="https://t.me/r_tsch" target="_blank"> <img src="https://github.com/user-attachments/assets/fafbc6dd-427e-40bd-9888-b623729018ad"></> </a>
+<a href="https://t.me/r_tsch" target="_blank"> <img src="https://github.com/user-attachments/assets/fafbc6dd-427e-40bd-9888-b623729018ad" width="300" height="120"></> </a>
+<a href="https://t.me/r_tsch" target="_blank"> <img src="https://github.com/user-attachments/assets/fafbc6dd-427e-40bd-9888-b623729018ad" width="300" height="120"></> </a>
+<a href="https://t.me/r_tsch" target="_blank"> <img src="https://github.com/user-attachments/assets/fafbc6dd-427e-40bd-9888-b623729018ad" width="300" height="120"></> </a>
 </div>
 
 ---
