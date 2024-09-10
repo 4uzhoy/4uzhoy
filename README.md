@@ -1,4 +1,4 @@
-<div align="right"><img src="https://img.shields.io/badge/Status-Live-FF0266?style=for-the-badge&labelColor=29002e"> | <img src ="https://profile-counter.glitch.me/4uzhoy/count.svg" /> | <img src="https://badges.pufler.dev/years/4uzhoy"/> |  </div>
+<div align="right"><img src="https://img.shields.io/badge/Status-Live-FF0266?style=for-the-badge&labelColor=29002e"> | <img src ="./assets/4uzhoy/.assets/3aUBB77TdKYLrdb01F36GCxNCH9M3s8iNCw_MxWS1GM.webp" /> | <img src="https://badges.pufler.dev/years/4uzhoy"/> |  </div>
 
 ### :Who ?
 <div>
