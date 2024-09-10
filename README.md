@@ -1,4 +1,7 @@
-<div align="right"><img src="https://img.shields.io/badge/Status-Live-FF0266?style=for-the-badge&labelColor=29002e"> | <img src ="./assets/4uzhoy/.assets/3aUBB77TdKYLrdb01F36GCxNCH9M3s8iNCw_MxWS1GM.webp" /> | <img src="https://badges.pufler.dev/years/4uzhoy"/> |  </div>
+<div align="right"> 
+  
+<a href="https://www.youtube.com/watch?v=phL6fDiYNJk" target="_blank"> <img src="https://github.com/4uzhoy/4uzhoy/blob/main/.assets/3aUBB77TdKYLrdb01F36GCxNCH9M3s8iNCw_MxWS1GM.webp" width="44" height="36"></a> |
+  <img src="https://img.shields.io/badge/Status-Live-FF0266?style=for-the-badge&labelColor=29002e"> | <img src ="https://profile-counter.glitch.me/4uzhoy/count.svg" /> | <img src="https://badges.pufler.dev/years/4uzhoy"/> |  </div>
 
 ### :Who ?
 <div>
@@ -24,6 +27,7 @@
 <div align="right"><img src="https://img.shields.io/badge/git-STAATS-FF0266?style=for-the-badge&labelColor=29002e"></div>
 <div align="right"> <h3></h3></div>
 <div align="left">
+
 <img src="https://github-readme-stats.vercel.app/api?username=4uzhoy&count_private=true&theme=synthwave&include_all_commits=true&show_icons=true&hide_rank=false&rank_icon=github&order=1"  height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4uzhoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
