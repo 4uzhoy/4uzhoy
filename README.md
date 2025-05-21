@@ -1,7 +1,7 @@
 <div align="right"> 
   
 <a href="https://www.youtube.com/watch?v=phL6fDiYNJk" target="_blank"> <img src="https://github.com/4uzhoy/4uzhoy/blob/main/.assets/3aUBB77TdKYLrdb01F36GCxNCH9M3s8iNCw_MxWS1GM.webp" width="44" height="36"></a> |
-  <img src="https://img.shields.io/badge/Status-Live-FF0266?style=for-the-badge&labelColor=29002e"> | <img src ="https://profile-counter.glitch.me/4uzhoy/count.svg" /> | <img src="https://badges.pufler.dev/years/4uzhoy"/> |  </div>
+  <img src="https://img.shields.io/badge/Status-Live-FF0266?style=for-the-badge&labelColor=29002e"> | <img src="https://badges.pufler.dev/years/4uzhoy"/> |  </div>
 
 ### :Who ?
 <div>
